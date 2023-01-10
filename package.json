@@ -10,7 +10,7 @@
   "bin": {
     "your-boilerplate-name": "./bin/start.js"
   },
-  "author": "rsh",
+  "author": "Rashidov Aidar <rashidov.aydar@mail.ru>",
   "license": "ISC",
   "dependencies": {
     "fs-extra": "^11.1.0",
